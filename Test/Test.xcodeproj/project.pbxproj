@@ -49,7 +49,7 @@
 		84577115268518C000DB6638 = {
 			isa = PBXGroup;
 			children = (
-				84577120268518C000DB6638 /* Test_VertageLab */,
+				84577120268518C000DB6638 /* Test */,
 				8457711F268518C000DB6638 /* Products */,
 				8457713726851F0300DB6638 /* Frameworks */,
 			);
@@ -63,7 +63,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		84577120268518C000DB6638 /* Test_VertageLab */ = {
+		84577120268518C000DB6638 /* Test */ = {
 			isa = PBXGroup;
 			children = (
 				84577121268518C000DB6638 /* AppDelegate.swift */,
@@ -77,7 +77,7 @@
 				8457712C268518C300DB6638 /* LaunchScreen.storyboard */,
 				8457712F268518C300DB6638 /* Info.plist */,
 			);
-			path = Test_VertageLab;
+			path = Test;
 			sourceTree = "<group>";
 		};
 		8457713726851F0300DB6638 /* Frameworks */ = {
@@ -122,7 +122,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 84577119268518C000DB6638 /* Build configuration list for PBXProject "Test_VertageLab" */;
+			buildConfigurationList = 84577119268518C000DB6638 /* Build configuration list for PBXProject "Test" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -346,7 +346,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		84577119268518C000DB6638 /* Build configuration list for PBXProject "Test_VertageLab" */ = {
+		84577119268518C000DB6638 /* Build configuration list for PBXProject "Test" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				84577130268518C300DB6638 /* Debug */,
